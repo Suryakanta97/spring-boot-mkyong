@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.surya;
 
 //import org.hibernate.validator.constraints.NotEmpty;
 
